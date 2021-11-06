@@ -1,0 +1,34 @@
+body {
+    color: darkgoldenrod;
+    background: darkred;
+}
+header {
+    background: black;
+    border: 2px solid darkgoldenrod;
+    text-shadow: 1px 1px 1px darkred;
+    text-align: center;
+}
+main {
+    height: 475px;
+    width: 1346px;
+    border: 2px solid darkgoldenrod;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+}
+h2 {
+    margin-top: 230px;
+}
+footer {
+    width: 1346px;
+    border: 2px solid darkgoldenrod;
+    text-shadow: 1px 1px 1px darkred;
+}
+button {
+    color: darkgoldenrod;
+    background: black;
+    border: 2px solid darkgoldenrod;
+    text-shadow: 1px 1px 1px darkred;
+    font-weight: bolder;
+    width: 446px;
+    height: 50px;
+}
